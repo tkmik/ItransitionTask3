@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ItransitionTask3": {
+      "commandName": "Project",
+      "commandLineArgs": "камень ножницы бумага ящерица спок"
+    }
+  }
+}
