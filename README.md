@@ -4,16 +4,16 @@
 Таким образом, пользователь может проверить, что компьютер играет честно (не поменял свой ход после хода пользователя).
 Пример:
 >java -jar gamr.jar rock paper scissors lizard Spock</br>
-HMAC: FAAC40C71B4B12BF0EF5556EEB7C06925D5AE405D447E006BB8A06565338D411
-Available moves:
-1 - rock
-2 - paper
-3 - scissors
-4 - lizard
-5 - Spock
-0 - exit
-Enter your move: 2
-Your move: paper
-Computer move: rock
-You win!
-HMAC key: BD9B5544739FCE7359C267E734E380A2
+HMAC: FAAC40C71B4B12BF0EF5556EEB7C06925D5AE405D447E006BB8A06565338D411</br>
+Available moves:</br>
+1 - rock</br>
+2 - paper</br>
+3 - scissors</br>
+4 - lizard</br>
+5 - Spock</br>
+0 - exit</br>
+Enter your move: 2</br>
+Your move: paper</br>
+Computer move: rock</br>
+You win!</br>
+HMAC key: BD9B5544739FCE7359C267E734E380A2</br>
